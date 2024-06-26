@@ -1,0 +1,5 @@
+pandas==2.2.0
+tqdm==4.64.1
+ortools==9.8.3296
+cython==0.29.33
+networkx==2.8.8
